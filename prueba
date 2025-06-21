@@ -36,7 +36,7 @@ void setup() {
   lcd.clear();
   lcd.setCursor(0,0);
   lcd.print("MINI SPACESHIP");
-  lcd.setCursor(10,1);
+  lcd.setCursor(9,1);
   lcd.print("ARDUINO");
   delay(2000);
   lcd.clear();
@@ -148,3 +148,4 @@ void loop() {
     lcd.setCursor(spaceship_X,spaceship_Y);
     lcd.print('>');
   }
+}
