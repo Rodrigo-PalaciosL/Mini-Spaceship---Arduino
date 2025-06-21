@@ -138,11 +138,13 @@ void loop() {
 }
 
 //Imprimir Obstáculos
+    lcd.clear();
     for (int i = 0; i < Ancho; i++) {
       lcd.setCursor(i, 0);
       lcd.print(fila0[i]);
       lcd.setCursor(i, 1);
       lcd.print(fila1[i]);
-}
-  }
+    }
+    lcd.setCursor(spaceship_X,spaceship_Y);
+    lcd.print('>');
   }
