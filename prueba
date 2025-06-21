@@ -132,7 +132,7 @@ void loop() {
       delay(2000);
       lcd.setCursor(0, 1);
       lcd.print("PUNTOS: ");
-      lcd.print(points);
+      lcd.print(Points);
 
       while (true); // Detener juego
 }
