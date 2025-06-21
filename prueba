@@ -38,6 +38,7 @@ void setup() {
   lcd.print("MINI SPACESHIP");
   lcd.setCursor(10,1);
   lcd.print("ARDUINO");
+  delay(2000);
   lcd.clear();
   while (true) {
     //Lectura de movimiento para romper bucle
