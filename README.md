@@ -1,6 +1,7 @@
 # Mini-Spaceship---Arduino
-Proyecto universitario de creación de juego con pantalla led en Arduino
 UNIVERSIDAD NACIONAL DE TRUJILLO
+
+Proyecto universitario de creación de juego con pantalla led en Arduino
 
 Curso: 
 - Programación I
