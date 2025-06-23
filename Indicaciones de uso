@@ -1,0 +1,6 @@
+Si quieres jugar a Mini SpaceShip---Arduino, tendrás que descargar todo en un .rar o .zip y descomprimir en una carpeta.
+Los archivos constan de:
+  La carpeta Codigo_Game, donde se encuentra el código editable 'Codigo_Game.ino' que se realizó en arduino, la 'melodia.h' del juego junto al convertidor de notas a frecuencias 'notas.h', y la subcarpeta build.
+    En la subcarpeta build se encuentra el exportado binario de 'Codigo_Game.ino' que se usa para la simulación en proteus.
+  El archivo de simulación en Proteus 'Game - Mini SpaceShip.pdsprj'
+
