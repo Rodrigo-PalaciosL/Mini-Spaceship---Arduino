@@ -52,7 +52,7 @@ const int intervaloMovimientoX = 150;
 void setup() {
   Serial.begin(9600);
   lcd.begin(16,2);
-  EEPROM.write(0, 0);
+//  EEPROM.write(0, 0); Reinicio de Record
 
   pinMode(btn, INPUT_PULLUP);
   delay(100);
